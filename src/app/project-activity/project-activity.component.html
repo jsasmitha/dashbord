@@ -1,0 +1,15 @@
+<section>
+<div class="row" *ngIf="dataShow"> 
+
+    <div style="display: block;">
+    <canvas baseChart width="400" height="200"
+                [datasets]="lineChartData"
+                [labels]="labelArray"
+                [options]="lineChartOptions"
+                [colors]="lineChartColors"
+                [legend]="lineChartLegend"
+                [chartType]="lineChartType"></canvas>
+    </div>
+
+</div>
+</section>

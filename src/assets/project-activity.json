@@ -1,0 +1,30 @@
+{
+	"Monday 15 th jan 2018": {
+		"last": 56,
+		"current": 96
+	},
+	"Tuesday 16 th jan 2018": {
+		"last": 93,
+		"current": 33
+	},
+	"Wednesday 17 th jan 2018": {
+		"last": 14,
+		"current": 96
+	},
+	"Thursday 18 th jan 2018": {
+		"last": 20,
+		"current": 59
+	},
+	"Friday 19 th jan 2018": {
+		"last": 100,
+		"current": 25
+	},
+	"Saturday 20 th jan 2018": {
+		"last": 26,
+		"current": 70
+	},
+	"Sunday 21 th jan 2018": {
+		"last": 55,
+		"current": 89
+	}
+}
